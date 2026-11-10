@@ -1,4 +1,4 @@
-package P013_Java_Booleans;
+package P13_Java_Booleans;
 public class A13_2_Java_Booleans {
     public static void main(String[] args) {
         int edad = 17;

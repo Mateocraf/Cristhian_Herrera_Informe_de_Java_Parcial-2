@@ -1,4 +1,4 @@
-package P010_Java_Operators;
+package P10_Java_Operators;
 public class A10_4_Java_Operators {
     public static void main(String[] args) {
         int nota = 16;

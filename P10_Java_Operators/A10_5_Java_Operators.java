@@ -1,4 +1,4 @@
-package P010_Java_Operators;
+package P10_Java_Operators;
 public class A10_5_Java_Operators {
     public static void main(String[] args) {
         boolean matriculado = true;

@@ -1,4 +1,4 @@
-package P011_Java_Strings;
+package P11_Java_Strings;
 public class A11_3_Java_Strings {
     public static void main(String[] args) {
         int a = 4;

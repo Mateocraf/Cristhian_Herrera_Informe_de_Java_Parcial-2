@@ -1,4 +1,4 @@
-package P012_Java_Math;
+package P12_Java_Math;
 public class A12_Java_Math {
     public static void main(String[] args) {
         System.out.println(Math.max(8, 12)); // 12
